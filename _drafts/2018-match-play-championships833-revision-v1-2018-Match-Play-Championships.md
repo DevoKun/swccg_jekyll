@@ -1,0 +1,67 @@
+---
+id: 16801
+title: 2018 Match Play Championships
+date: 2020-01-18T00:21:36+00:00
+author: quickdraw3457
+layout: swccgpc
+guid: https://www.starwarsccg.org/833-revision-v1/
+permalink: /833-revision-v1/
+---
+Day 2  
+Reid Smith – <a rel="noreferrer noopener" aria-label="TTO  (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-2-reid-smith-tto/" target="_blank">TTO </a>– <a rel="noreferrer noopener" aria-label="HITCO (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-2-reid-smith-hitco/" target="_blank">HITCO</a>  
+Bryan Mischke – [EOps](https://www.starwarsccg.org/2018-mpc-day-2-bryan-mischke-eops/) – [TRM](https://www.starwarsccg.org/2018-mpc-day-2-bryan-mischke-trm/)  
+Phil Aasen – [IE](https://www.starwarsccg.org/2018-mpc-day-2-phil-aasen-ie/) – [OA](https://www.starwarsccg.org/2018-mpc-day-2-phil-aasen-oa/)  
+Justin Desai – [Map](https://www.starwarsccg.org/2018-mpc-day-2-justin-desai-map/) – [TRM](https://www.starwarsccg.org/2018-mpc-day-2-justin-desai-trm/)
+
+Day 1  
+Phil Aasen – [CCT](https://www.starwarsccg.org/2018-mpc-day-1-phil-aasen-cct/) – [TRM](https://www.starwarsccg.org/2018-mpc-day-1-phil-aasen-trm/)  
+Cal Aldred – [Map](https://www.starwarsccg.org/2018-mpc-day-1-cal-aldred-map/) – [TRM](https://www.starwarsccg.org/2018-mpc-day-1-cal-aldred-trm/)  
+Barry Alperstein – [HD](https://www.starwarsccg.org/2018-mpc-day-1-barry-alperstein-hd/) – [WYS](https://www.starwarsccg.org/2018-worlds-barry-alperstein-wys/)  
+Casey Anis – [Map](https://www.starwarsccg.org/2018-mpc-day-1-casey-anis-map/) – [TRM](https://www.starwarsccg.org/2018-mpc-day-1-casey-anis-trm/)  
+Charlie Arlandson – [ISB](https://www.starwarsccg.org/2018-mpc-day-1-charlie-arlandson-isb/) – [QMC](https://www.starwarsccg.org/2018-mpc-day-1-charlie-arlandson-qmc/)  
+Steve Baroni – [ISB](https://www.starwarsccg.org/2018-mpc-day-1-steve-baroni-isb/) – [TRM](https://www.starwarsccg.org/2018-mpc-day-1-steve-baroni-trm/)  
+Jan Bereuda – [Map](https://www.starwarsccg.org/2018-mpc-day-1-jan-berueda-map/) – [TRM](https://www.starwarsccg.org/2018-mpc-day-1-jan-berueda-trm/)  
+Andrew Bollentino – [EOps](https://www.starwarsccg.org/2018-mpc-day-1-andrew-bollentino-eops/) – [WYS](https://www.starwarsccg.org/2018-mpc-day-1-andrew-bollentino-wys/)  
+Steve Brentson – [Court](https://www.starwarsccg.org/2018-mpc-day-1-steve-brenston-court/) – [WYS](https://www.starwarsccg.org/2018-mpc-day-1-steve-brenston-wys/)  
+Matt Carulli – [Map](https://www.starwarsccg.org/2018-mpc-day-1-matt-carulli-map/) – [Profit](https://www.starwarsccg.org/2018-mpc-day-1-matt-carulli-profit/)  
+Justin Carulli – [TTO](https://www.starwarsccg.org/2018-mpc-day-1-justin-carulli-tto/) – [HITCO](https://www.starwarsccg.org/2018-mpc-day-1-justin-carulli-hitco/)  
+Steve Cellucci – [EOps](https://www.starwarsccg.org/2018-mpc-day-1-steve-cellucci-eops/) – [Diplo](https://www.starwarsccg.org/2018-mpc-day-1-steve-cellucci-diplo/)  
+Wayne Cullen – [Map](https://www.starwarsccg.org/2018-mpc-day-1-wayne-cullen-map/) – [Y4Ops](https://www.starwarsccg.org/2018-mpc-day-1-wayne-cullen-y4ops/)  
+Tim Culver – [Senate](https://www.starwarsccg.org/2018-mpc-day-1-tim-culver-senate/) – [WHAP](https://www.starwarsccg.org/2018-mpc-day-1-tim-culver-whap/)  
+Justin Desai – [CCT](https://www.starwarsccg.org/2018-mpc-day-1-justin-desai-cct/) – [TRM](https://www.starwarsccg.org/2018-mpc-day-1-justin-desai-trm/)  
+Shawn Dickson – [Coruscant CRv](https://www.starwarsccg.org/2018-mpc-day-1-shawn-dickson-coruscant-crv/) – [HITCO](https://www.starwarsccg.org/2018-mpc-day-1-shawn-dickson-hitco/)  
+Jeremy DiPaolo – [Map](https://www.starwarsccg.org/2018-mpc-day-1-jeremy-dipaolo-map/) – [Diplo](https://www.starwarsccg.org/2018-mpc-day-1-jeremy-dipaolo-diplo/)  
+Brian Fred – [ISB](https://www.starwarsccg.org/2018-mpc-day-1-brian-fred-isb/) – [WYS](https://www.starwarsccg.org/2018-mpc-day-1-brian-fred-wys/)  
+Chris Gogolen – [Invasion](https://www.starwarsccg.org/2018-mpc-day-1-chris-gogolen-invasion/) – [RST](https://www.starwarsccg.org/2018-mpc-day-1-chris-gogolen-rst/)  
+Tom Haid – [Map](https://www.starwarsccg.org/2018-mpc-day-1-tom-haid-map/) – [Profit](https://www.starwarsccg.org/2018-mpc-day-1-tom-haid-profit/)  
+Steve Harpster – [IE Mains](https://www.starwarsccg.org/2018-mpc-day-1-steve-harpster-ie-mains/) – [TIGIH](https://www.starwarsccg.org/2018-mpc-day-1-steve-harpster-tigih/)  
+Ryan Jellison – [Hoth CRv](https://www.starwarsccg.org/2018-mpc-day-1-ryan-jellison-hoth-crv/) – [TIGIH](https://www.starwarsccg.org/2018-mpc-day-1-ryan-jellison-tigih/)  
+Jeffrey Johns – [TDIGWATT](https://www.starwarsccg.org/2018-mpc-day-1-jeffrey-johns-tdigwatt/) – [Y4Ops](https://www.starwarsccg.org/2018-mpc-day-1-jeffrey-johns-y4ops/)  
+Bill Kafer – [Map](https://www.starwarsccg.org/2018-mpc-day-1-bill-kafer-map/) – [Y4Ops](https://www.starwarsccg.org/2018-mpc-day-1-bill-kafer-y4ops/)  
+Chris Kelly – [Map](https://www.starwarsccg.org/2018-mpc-day-1-chris-kelly-map/) – [HITCO](https://www.starwarsccg.org/2018-mpc-day-1-chris-kelly-hitco/)  
+Tom Kelly – [IE](https://www.starwarsccg.org/2018-mpc-day-1-tom-kelly-ie/) – [QMC](https://www.starwarsccg.org/2018-mpc-day-1-tom-kelly-qmc/)  
+Mike Kessling – [Map](https://www.starwarsccg.org/2018-mpc-day-1-mike-kessling-map/) – [Diplo](https://www.starwarsccg.org/2018-mpc-day-1-mike-kessling-diplo/)  
+Aaron Kingery – [EOps](https://www.starwarsccg.org/2018-mpc-day-1-aaron-kingery-eops/) – [TRM](https://www.starwarsccg.org/2018-mpc-day-1-aaron-kingery-trm/)  
+Jarad Konsker – <a rel="noreferrer noopener" aria-label="Map  (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-jarad-konsker-map/" target="_blank">Map</a> – <a rel="noreferrer noopener" aria-label="Y4Ops (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-jarad-konsker-y4ops/" target="_blank">Y4Ops</a>  
+Kyle Kreuger – <a rel="noreferrer noopener" aria-label="CCT (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-kyle-kreuger-cct/" target="_blank">CCT</a> – <a rel="noreferrer noopener" aria-label="QMC (opens in a new tab)" href="https://www.starwarsccg.org/2018-egp-kyle-krueger-qmc/" target="_blank">QMC</a>  
+Cory Lauer – <a rel="noreferrer noopener" aria-label="Tatooine CRv (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-cory-lauer-tatooine-crv/" target="_blank">Tatooine CRv</a> – <a rel="noreferrer noopener" aria-label="QMC (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-cory-lauer-qmc/" target="_blank">QMC</a>  
+Scott Lingrell – <a rel="noreferrer noopener" aria-label="MKOS (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-scott-lingrell-mkos/" target="_blank">MKOS</a> – <a rel="noreferrer noopener" aria-label="MWYHL (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-scott-lingrell-mwyhl/" target="_blank">MWYHL</a>  
+Josh Mack – <a rel="noreferrer noopener" aria-label="HD (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-josh-mack-hunt-down/" target="_blank">HD</a> – <a rel="noreferrer noopener" aria-label="HITCO (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-josh-mack-hitco/" target="_blank">HITCO</a>  
+Bryan Mischke – [Senate](https://www.starwarsccg.org/2018-mpc-day-1-brian-mischke-senate/) – [WYS](https://www.starwarsccg.org/2018-mpc-day-1-brian-mischke-wys/)  
+Andrew Moss – <a rel="noreferrer noopener" aria-label="IE (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-andrew-moss-ie/" target="_blank">IE</a> – <a rel="noreferrer noopener" aria-label="QMC (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-andrew-moss-qmc/" target="_blank">QMC</a>  
+Jared Napolitano – <a rel="noreferrer noopener" aria-label="Hoth CRv (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-jared-napolitano-hoth-crv/" target="_blank">Hoth CRv</a> – <a rel="noreferrer noopener" aria-label="Jakku CPv (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-jared-napolitano-jakku-cpv/" target="_blank">Jakku CPv</a>  
+Sam Olson – <a rel="noreferrer noopener" aria-label="Senate (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-sam-olson-senate/" target="_blank">Senate</a> – <a rel="noreferrer noopener" aria-label="Y4Ops (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-sam-olson-y4ops/" target="_blank">Y4Ops</a>  
+Trevor Partridge – <a rel="noreferrer noopener" aria-label="TDIGWATT (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-trevor-partridge-tdigwatt/" target="_blank">TDIGWATT</a> – <a rel="noreferrer noopener" aria-label="Profit (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-trevor-partridge-profit/" target="_blank">Profit</a>  
+Joe Pinto – <a rel="noreferrer noopener" aria-label="ISB (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-joe-pinto-isb/" target="_blank">ISB</a> – <a rel="noreferrer noopener" aria-label="Diplo (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-joe-pinto-diplo/" target="_blank">Diplo</a>  
+Jason Reindeau – <a rel="noreferrer noopener" aria-label="CCT (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-jason-reindeau-cct/" target="_blank">CCT</a> – <a rel="noreferrer noopener" aria-label="Diplo (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-jason-reindeau-diplo/" target="_blank">Diplo</a>  
+Dennis Reinhardt – <a rel="noreferrer noopener" aria-label="HD (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-dennis-reinhardt-hd/" target="_blank">HD</a> – <a rel="noreferrer noopener" aria-label="WHAP (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-dennis-reinhardt-whap/" target="_blank">WHAP</a>  
+Lenny Rubin – <a rel="noreferrer noopener" aria-label="Map (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-lenny-rubin-map/" target="_blank">Map</a> – <a rel="noreferrer noopener" aria-label="Y4Ops (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-lenny-rubin-y4ops/" target="_blank">Y4Ops</a>  
+Adam Schellberg – <a rel="noreferrer noopener" aria-label="Senate (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-adam-schellberg-senate/" target="_blank">Senate</a> – <a rel="noreferrer noopener" aria-label="WHAP (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-adam-schellberg-whap/" target="_blank">WHAP</a>  
+Matt Scott – <a rel="noreferrer noopener" aria-label="ISB (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-matt-scott-isb/" target="_blank">ISB</a> – <a rel="noreferrer noopener" aria-label="WYS (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-matt-scott-wys/" target="_blank">WYS</a>  
+Greg Shaw – <a rel="noreferrer noopener" aria-label="Invasion (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-greg-shaw-invasion/" target="_blank">Invasion</a> – <a rel="noreferrer noopener" aria-label="Diplo (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-greg-shaw-diplo/" target="_blank">Diplo</a>  
+Reid Smith – <a rel="noreferrer noopener" aria-label="Coruscant CRv (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-reid-smith-coruscant-crv/" target="_blank">Coruscant CRv</a> – <a rel="noreferrer noopener" aria-label="HITCO (opens in a new tab)" href="https://www.starwarsccg.org/2018-mpc-day-1-reid-smith-hitco/" target="_blank">HITCO</a>  
+Brian Speight – <a href="https://www.starwarsccg.org/2018-mpc-day-1-brian-speight-hd/" target="_blank" rel="noreferrer noopener" aria-label="HD (opens in a new tab)">HD</a> – <a href="https://www.starwarsccg.org/2018-mpc-day-1-brian-speight-wys/" target="_blank" rel="noreferrer noopener" aria-label="WYS (opens in a new tab)">WYS</a>  
+Dan Tartaglione – <a href="https://www.starwarsccg.org/2018-mpc-day-1-dan-tartaglione-tto/" target="_blank" rel="noreferrer noopener" aria-label="TTO (opens in a new tab)">TTO</a> – <a href="https://www.starwarsccg.org/2018-mpc-day-1-dan-tartaglione-oa/" target="_blank" rel="noreferrer noopener" aria-label="OA (opens in a new tab)">OA</a>  
+John Veasey – <a href="https://www.starwarsccg.org/2018-mpc-day-1-vikram-bali-eops/" target="_blank" rel="noreferrer noopener" aria-label="EOps (opens in a new tab)">EOps</a> – <a href="https://www.starwarsccg.org/2018-mpc-day-1-vikram-bali-diplo/" target="_blank" rel="noreferrer noopener" aria-label="Diplo (opens in a new tab)">Diplo</a>  
+Chris Westergard – <a href="https://www.starwarsccg.org/2018-mpc-day-1-chris-westergard-hd/" target="_blank" rel="noreferrer noopener" aria-label="HD (opens in a new tab)">HD</a> – <a href="https://www.starwarsccg.org/2018-mpc-day-1-chris-westergard-diplo/" target="_blank" rel="noreferrer noopener" aria-label="Diplo (opens in a new tab)">Diplo</a>  
+Chris Wirfs – <a href="https://www.starwarsccg.org/2018-mpc-day-1-chris-wirfs-ie-mains/" target="_blank" rel="noreferrer noopener" aria-label="IE Mains (opens in a new tab)">IE Mains</a> – <a href="https://www.starwarsccg.org/2018-mpc-day-1-chris-wirfs-tigih/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">TIGIH</a>

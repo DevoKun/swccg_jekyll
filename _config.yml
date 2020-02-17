@@ -1,0 +1,43 @@
+title:       Star Wars CCG
+description: "Star Wars Customizable Card Game"
+email:       info@starwarsccg.org
+markdown:    kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+highlighter: rouge
+logo:        false
+baseurl:     ""
+url:         "https://www.starwarsccg.org"
+excerpt_separator: N/A-------N/A
+#plugins: [jekyll-gist]
+
+#permalink: /:year/:month/:title.html
+#permalink: /:categories/:title
+permalink: /:title/
+
+exclude:
+  - .git
+  - .gitignore
+  - .sass-cache
+  - Gemfile
+  - gruntfile.js
+  - gulpfile.js
+  - index1.html
+  - index1.md
+  - node_modules
+  - package-lock.json
+  - package.json
+  - Rakefile
+  - README.md
+  - s3_website.yml
+  - sass
+
+showdates: false
+
+include: ['_pages']
+
+
+

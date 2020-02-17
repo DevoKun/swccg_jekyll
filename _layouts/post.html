@@ -1,0 +1,39 @@
+---
+layout: swccgpc
+---
+
+<style type="text/css">
+  div#post-categories {
+    font-size: 10pt;
+    font-family: sans-serif;
+    color: #292929;
+  }
+  span#post-category-title {
+    color:#999999;
+    font-weight:bold;
+  }
+  span#post-category-seperator {
+    color:#dddddd;
+  }
+  a#post-category-link, a#post-category-link:visited {
+    color:#666666 !important;
+  }
+  a#post-category-link:hover, a#post-category-link:active {
+    color:#1084de !important;
+  }
+</style>
+
+<div class="post-container">
+	<center><h1 class="post-title">{{ page.title }}</h1></center>
+  <div class="ui divider"></div>
+  {{ content }}
+  <div class="ui divider"></div>
+  {% if page.category or page.categories %}
+    <div id="post-categories">
+    <span id="post-category-title">categories:</span>
+    {% for category in page.categories %}
+      <a id="post-category-link" href="/category/{{ category }}">{{ category }}</a> <span id="post-category-seperator">|</span>
+    {% endfor %}
+    </div>
+  {% endif %}
+</div>
